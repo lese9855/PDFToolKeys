@@ -21,14 +21,6 @@ This project is not officially associated with Mozilla or its products. It is no
 | Ctrl + U | Signature |
 | Ctrl + I | Image |
 
-**Ctrl + N keeps its normal New Window behavior.**
-
-To insert text, press **Ctrl + G**, click the desired position in the PDF, then type. Selecting the text tool does not request an empty editor at the center of the page. Repeated tool selection follows the native button's toggle behavior.
-
-Keyboard focus is not the mouse pointer position. The six combinations also switch tools from text fields inside the PDF, but not when focus is in the address bar or another browser control. Other Ctrl combinations, plain letters, Shift+letters, and Ctrl+Alt combinations are not handled.
-
-Unavailable tools and open modal dialogs prevent activation. The consumed PDF shortcut does not fall back to a browser command in those cases.
-
 ## Before installing
 
 > [!WARNING]
