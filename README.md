@@ -4,7 +4,7 @@
 
 `0.7 beta` · `Windows target` · `MPL-2.0` · `Manual installation`
 
-[한국어](README.md) · English
+[한국어](README.kr.md) · English
 
 PDF Tool Keys is an unofficial AutoConfig script for the Firefox desktop browser. It activates native PDF tools when keyboard focus is inside a top-level PDF tab. Ordinary webpages and browser controls keep their existing shortcuts.
 
